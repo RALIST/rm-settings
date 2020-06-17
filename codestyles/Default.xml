@@ -5,11 +5,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <Ruby>
-    <option name="INDENT_PRIVATE_METHODS" value="true" />
-    <option name="INDENT_PROTECTED_METHODS" value="true" />
-    <option name="INDENT_PUBLIC_METHODS" value="true" />
-  </Ruby>
   <codeStyleSettings language="EditorConfig">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_BEFORE_COLON" value="true" />
@@ -54,6 +49,8 @@
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

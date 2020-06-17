@@ -1,10 +1,10 @@
 <scheme name="_@user_Monokai Pro" version="142">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="0.9166667" />
   <metaInfo>
     <property name="created">2020-03-09T12:54:22</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-06-17T19:32:32</property>
+    <property name="modified">2020-06-17T19:01:58</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -22,7 +22,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -56,6 +56,7 @@
     <option name="FILESTATUS_addedOutside" value="a9dc76" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="78dce8" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="221f22" />
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
@@ -775,7 +776,6 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="939293" />
-        <option name="BACKGROUND" value="403e41" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
