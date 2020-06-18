@@ -535,6 +535,25 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/carrierwave-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave_backgrounder (v0.4.2@460394, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/.git" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/.git" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/.git" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/bundler/gems/carrierwave_backgrounder-460394b0e2c0/spec" />
+      </excluded>
+    </library>
     <library name="case_transform (v0.2, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1150,6 +1169,22 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/foreman-0.87.1/man" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/foreman-0.87.1/data" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/foreman-0.87.1/spec" />
+      </excluded>
+    </library>
+    <library name="formatador (v0.2.5, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/formatador-0.2.5/tests" />
       </excluded>
     </library>
     <library name="forwardable (v1.2.0, ruby-2.6.5-p114) [gem]" type="rubylib">
