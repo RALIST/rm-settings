@@ -661,6 +661,22 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bumbler-0.8.0/bin" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.1, ruby-2.1.3-p242) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/bundler-1.16.1/exe" />
+        <root url="file://C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/bundler-1.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/bundler-1.16.1/exe" />
+        <root url="file://C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/bundler-1.16.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/bundler-1.16.1/exe" />
+      </excluded>
+    </library>
     <library name="bundler (v1.16.1, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
