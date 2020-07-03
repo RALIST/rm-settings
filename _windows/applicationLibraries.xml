@@ -203,12 +203,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs21/bcrypt/3.1.13" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/ext" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/lib" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/.git" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs21/bcrypt/3.1.13" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/ext" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/lib" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/bundler/gems/bcrypt-ruby-2fbe5418b4fc/.git" />
@@ -1675,14 +1677,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs21/pg/0.17.1" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/ext" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/lib" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/spec" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs21/pg/0.17.1" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/ext" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/lib" />
         <root url="file://C:/ruby23/lib/ruby/gems/2.1.0/gems/pg-0.17.1-x64-mingw32/spec" />
