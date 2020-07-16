@@ -812,11 +812,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.1" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.1" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/lib" />
@@ -831,14 +833,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.6" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/lib" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.6" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/lib" />
@@ -1838,13 +1838,16 @@
       <CLASSES>
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/lib" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/spec" />
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/lib" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/spec" />
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/test" />
       </SOURCES>
       <excluded>
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/spec" />
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/elasticsearch-dsl-0.1.9/test" />
       </excluded>
     </library>
     <library name="elasticsearch-extensions (v0.0.31, ruby-2.6.5-p114) [gem]" type="rubylib">
@@ -2338,13 +2341,16 @@
       </properties>
       <CLASSES>
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/lib" />
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/spec" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/.github" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/lib" />
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/spec" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/.github" />
       </SOURCES>
       <excluded>
+        <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/spec" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/fog-core-2.2.0/.github" />
       </excluded>
     </library>
