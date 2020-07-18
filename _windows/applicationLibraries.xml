@@ -812,13 +812,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.1" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.1" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.1/lib" />
@@ -833,12 +831,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.6" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/lib" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.6" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/bin" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/ext" />
         <root url="file://C:/ruby26/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.6/lib" />
