@@ -167,6 +167,29 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/active_record_query_trace-1.7/lib" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v2.7.0, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/app" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/docs" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/config" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/app" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/docs" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/config" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/docs" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activeadmin-2.7.0/config" />
+      </excluded>
+    </library>
     <library name="activejob (v6.0.2.2, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2868,10 +2891,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ransack-2.3.2/polyamorous/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/polyamorous-2.3.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ransack-2.3.2/polyamorous/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/polyamorous-2.3.2/lib" />
       </SOURCES>
     </library>
     <library name="popper_js (v1.16.0, ruby-2.6.5-p114) [gem]" type="rubylib">
