@@ -259,6 +259,17 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activesupport-6.0.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v6.0.3.2, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activesupport-6.0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activesupport-6.0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.7.0, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1743,6 +1754,17 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.8.5, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.8.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.8.5/lib" />
+      </SOURCES>
+    </library>
     <library name="image_optim (v0.26.5, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2360,6 +2382,22 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.0/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.14.1, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.14.1/test" />
       </excluded>
     </library>
     <library name="msgpack (v1.3.3, ruby-2.6.5-p114) [gem]" type="rubylib">
@@ -4350,6 +4388,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/zeitwerk-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.4.0, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/zeitwerk-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/zeitwerk-2.4.0/lib" />
       </SOURCES>
     </library>
   </component>
