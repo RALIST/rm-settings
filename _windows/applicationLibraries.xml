@@ -4986,6 +4986,22 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.0/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v4.0.2, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.2/bin" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.2/bin" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sprockets-4.0.2/bin" />
+      </excluded>
+    </library>
     <library name="sprockets-rails (v3.2.1, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
