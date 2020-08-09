@@ -506,6 +506,28 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
+    <library name="after_commit_everywhere (v0.1.5, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/bin" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/tmp" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/bin" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/lib" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/tmp" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/bin" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/tmp" />
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/after_commit_everywhere-0.1.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="ansi (v1.5.0, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
