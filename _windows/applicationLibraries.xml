@@ -4717,6 +4717,17 @@
         <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/safe_yaml-1.0.5/spec" />
       </excluded>
     </library>
+    <library name="sass-rails (v6.0.0, ruby-2.6.5-p114) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-rails-6.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/DevTools/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-rails-6.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sassc (v2.4.0, ruby-2.6.5-p114) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
